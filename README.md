@@ -4,6 +4,14 @@
 [ Swift Frequency 시즌1 공식 노션 링크](https://tame-trawler-abc.notion.site/Swift-Frequency-1-80c09f50b5714b9ea373c4b6bede5b45)
 
 ![KakaoTalk_Image_2021-10-10-17-41-11](https://user-images.githubusercontent.com/69078056/136688821-124c4853-db46-411c-9c50-9045366277be.png)
+<br><br>
+### ✅ Swift Frequency 시즌1 Topics
+__ 시즌 1의 메인 테마는 네트워킹에 관련된 내용(그런데 이제 델리게이트를 곁들인 ✨)입니다__
+
+![image](https://user-images.githubusercontent.com/69078056/136689577-6699b640-925b-414e-9a4d-6d228fb6533f.png)
+<br><br>
+### ✅ Swift Frequency 시즌1 Repositories
+[ iOS 면접질문 정리 : iOSInterview ](https://github.com/SwiftFrequency/iOSInterview)
 
 <br><br>
 ---
